@@ -11,3 +11,9 @@ intention: to simulate report
 rnorm(10)
 ```
 
+```{r}
+x = "hello"
+print(x)
+```
+
+
