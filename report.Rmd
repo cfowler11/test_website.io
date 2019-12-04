@@ -1,0 +1,19 @@
+---
+title: "report"
+author: "Madison Stoms"
+date: "December 4, 2019"
+output: html_document
+---
+
+intention: to simulate report
+
+```{r}
+rnorm(10)
+```
+
+```{r}
+x = "hello"
+print(x)
+```
+
+
